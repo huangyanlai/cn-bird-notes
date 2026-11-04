@@ -1,9 +1,9 @@
 {
   "latest_version": {
-    "version_code": 251,
-    "version_name": "1.0.251",
-    "release_date": "2026-10-21",
-    "changelog": "1. 常规细节优化与体验提升。",
+    "version_code": 278,
+    "version_name": "1.0.278",
+    "release_date": "2026-11-04",
+    "changelog": "1. 新增「分享到小红书」专属图文与智能 PDF 联动导出（自动保存 PDF 至下载目录并复制正文文案）；\n2. 统一 .birdnote 与智能 PDF 笔记包导入/导出，支持鸟种形态属性导出与照片/属性无损合并；\n3. 修复启动阶段仓库初始化顺序问题并新增启动端到端测试。",
     "download_url": "https://pan.quark.cn/s/008919922240",
     "extract_code": "",
     "force_update": false
